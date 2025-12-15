@@ -10,3 +10,5 @@ else:
     parts.append(s)
     parts.reverse()
     print(" ".join(parts))
+
+
